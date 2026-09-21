@@ -1,0 +1,19 @@
+version: 1
+
+project:
+  id: ee808306-f977-461a-9378-87915b229554
+  title: Alex S. Ablanque Jr. | Data Science Portfolio
+  description: Personal Data Science portfolio of Alex S. Ablanque Jr., a BS Data Science student at USTP.
+
+  toc:
+    - file: index.md
+    - title: Laboratory Activities
+      children:
+        - file: notebooks/Laboratory_Task_2.ipynb
+        - file: notebooks/Laboratory_Task_3.ipynb
+        - file: notebooks/Laboratory_Task_4.ipynb
+        - file: notebooks/Laboratory_Task_5.ipynb
+        - file: notebooks/Laboratory_Task_6.ipynb
+
+site:
+  template: book-theme
