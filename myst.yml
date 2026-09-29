@@ -14,6 +14,7 @@ project:
         - file: notebooks/Laboratory_Task_4.ipynb
         - file: notebooks/Laboratory_Task_5.ipynb
         - file: notebooks/Laboratory_Task_6.ipynb
+        - file: notebooks/Laboratory_Task_7.ipynb
 
 site:
   template: book-theme
